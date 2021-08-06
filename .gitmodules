@@ -1,0 +1,3 @@
+[submodule "unity-editor-vrchat"]
+	path = unity-editor-vrchat
+	url = ssh://aur@aur.archlinux.org/unity-editor-vrchat.git
